@@ -1,3 +1,4 @@
+//Table of numbers using nesting of loops
 #include <stdio.h>
 int main()
 {
@@ -13,4 +14,5 @@ int main()
         
    }
    return 0;
+
 }
