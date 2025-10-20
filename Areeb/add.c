@@ -1,3 +1,4 @@
+// Addition of two numbers
 #include <stdio.h>
 int main()
 {
@@ -8,3 +9,4 @@ int main()
     printf("The sum of %d and %d = %d", a, b, sum);
     return 0;
 }
+
