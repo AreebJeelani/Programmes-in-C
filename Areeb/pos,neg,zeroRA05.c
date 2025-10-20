@@ -1,3 +1,4 @@
+//to check whether number is positive or negative.
 #include <stdio.h>
 int main()
 {
@@ -18,3 +19,4 @@ int main()
 	}
 	return 0;
 }
+
