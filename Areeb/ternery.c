@@ -1,3 +1,4 @@
+//Ternery operator
 #include <stdio.h>
 int main(){
     int x, y ;
@@ -6,4 +7,5 @@ int main(){
     x > y ? printf("%d is greater than %d", x, y) : printf("%d is smaller than %d", x, y);
    
     return 0;
+
 }
