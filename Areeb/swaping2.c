@@ -1,3 +1,4 @@
+// swapping of  two numbers without external varaible.
 #include <stdio.h>
 int main(){
    int x, y, temp ;
@@ -8,4 +9,5 @@ int main(){
    y = y + x;
    printf("\n numbers after swapping, x = %d, y = %d", x, y);
    return 0;
+
 }
