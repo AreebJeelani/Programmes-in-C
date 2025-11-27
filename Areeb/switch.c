@@ -1,3 +1,4 @@
+// To showcase the use of switch.
 #include <stdio.h>
 int main(){
     int x, y, i;
@@ -23,3 +24,4 @@ int main(){
     }
     return 0;
 }
+
