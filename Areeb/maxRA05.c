@@ -1,3 +1,4 @@
+//To display max number among given numbers.
 #include <stdio.h>
 int main()
 {
@@ -16,3 +17,4 @@ int main()
 	printf("Largest no. is:%d",max);
 	return 0;
 }
+
