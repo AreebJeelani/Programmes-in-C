@@ -1,5 +1,6 @@
+// To calculate the roots of a quadratic equation.
 #include <stdio.h>
-#include<math.h>
+#include <math.h>
 int main()
 {
     float a, b, c, d, r1,  r2 ;
@@ -20,8 +21,9 @@ int main()
     else if(d==0)
     {
         r1= -b/2*a;
-        printf("The equation has both equal roots=%f", r1);
+        printf("The equation has both equal roots= %f", r1);
     }
     return 0;
+
 
 }
