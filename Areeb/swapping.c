@@ -1,3 +1,4 @@
+// swapping of two numbers.
 #include <stdio.h>
 int main(){
    int x, y, temp ;
@@ -9,4 +10,5 @@ int main(){
    y = temp;
    printf("\n numbers after swapping, x = %d, y = %d", x, y);
    return 0;
+
 }
