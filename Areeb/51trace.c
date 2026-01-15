@@ -1,4 +1,4 @@
-// To find the dum of diagonal elements of a matrix.
+// To find the sum of diagonal elements of a matrix.
 #include <stdio.h>
 int main()
 {

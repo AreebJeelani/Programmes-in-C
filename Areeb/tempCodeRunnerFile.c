@@ -1,2 +1,0 @@
-
-    else if(marks>=70 && marks<80)
